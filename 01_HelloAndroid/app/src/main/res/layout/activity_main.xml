@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!--<EditText
+        android:id="@+id/editText"
+        android:hint="숫자를 입력해보세요"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="첫번째 버튼" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="두번째 버튼" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="세번째 버튼" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="진동 버튼" />
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="시간 출력" />
+    <EditText
+        android:id="@+id/year"
+        android:hint="년도를 입력해보세요"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/month"
+        android:hint="월을 입력해보세요"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/date"
+        android:hint="날짜를 입력해보세요"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/dday"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="D-Day 실습" />
+
+    <Button
+        android:id="@+id/V_UpBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="볼륨 Up버튼" />
+
+    <Button
+        android:id="@+id/V_DownBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="볼륨 Down버튼" />
+
+    <Button
+        android:id="@+id/V_MaxBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="볼륨 Max버튼" />
+
+    <Button
+        android:id="@+id/V_MinBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="볼륨 Min버튼" />
+
+    <Button
+        android:id="@+id/MV_UpBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="미디어 볼륨 Up버튼" />
+
+    <Button
+        android:id="@+id/MV_DownBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        android:text="미디어 볼륨 Down버튼" />
+
+
+    <EditText
+        android:id="@+id/msg"
+        android:hint="문자보낼 내용을 입력하세요"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/phoneNumber"
+        android:hint="상대방 전화번호를 입력하세요"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/send"
+        android:text="메시지 전송"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        />
+
+    <EditText
+        android:id="@+id/msg"
+        android:hint="읽을 문장"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/read"
+        android:text="읽기"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        />
+
+    <Button
+        android:id="@+id/pitchUp"
+        android:text="톤 높게"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"/>
+    <Button
+        android:id="@+id/pitchDown"
+        android:text="톤 낮게"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"/>
+    <Button
+        android:id="@+id/today"
+        android:text="오늘 날짜"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"/>
+        -->
+    <Button
+        android:id="@+id/stt"
+        android:text="stt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"/>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
